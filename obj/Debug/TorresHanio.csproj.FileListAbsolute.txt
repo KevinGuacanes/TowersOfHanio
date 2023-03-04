@@ -1,0 +1,66 @@
+C:\Users\Andres\Desktop\TorresHanio\bin\Debug\TorresHanio.exe.config
+C:\Users\Andres\Desktop\TorresHanio\bin\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\TorresHanio\bin\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\TorresHanio\obj\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.exe.config
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.pdb
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.exe.config
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.exe
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\bin\Debug\TorresHanio.pdb
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.exe
+C:\Users\Andres\Documents\Proyectos Finales\TorresHanio\obj\Debug\TorresHanio.pdb
+D:\Downloads\TorresHanio\bin\Debug\TorresHanio.exe.config
+D:\Downloads\TorresHanio\bin\Debug\TorresHanio.exe
+D:\Downloads\TorresHanio\bin\Debug\TorresHanio.pdb
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.exe
+D:\Downloads\TorresHanio\obj\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\bin\Debug\TorresHanio.exe.config
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\bin\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\bin\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\TorresHanio\obj\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\bin\Debug\TorresHanio.exe.config
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\bin\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\bin\Debug\TorresHanio.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.Form1.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.Properties.Resources.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.exe
+C:\Users\Andres\Desktop\Proyectos Finales  POO - Guacanes, Quilca, Sevilla, Ullco\C#\TorresHanio\obj\Debug\TorresHanio.pdb
